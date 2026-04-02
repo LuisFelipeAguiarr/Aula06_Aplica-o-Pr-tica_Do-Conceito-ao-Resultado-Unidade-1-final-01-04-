@@ -1,0 +1,24 @@
+# Aula06_Aplica-o-Pr-tica_Do-Conceito-ao-Resultado-Unidade-1-final-01-04-
+
+###Exemplo prático 
+
+.Se um aluno tem 4 notas no semestre (8.0, 7.5, 9.0, 6.5): 
+
+1 Soma:8.0 + 7.5 + 9.0 + 6.5 + =31.0
+2 Divisão: 31.0 ÷ 4
+3 Resultado 7.75
+
+Nota1 = (input (Digite a nota 1:))
+Nota2 = (input (Digite a nota 2:))
+Nota3 = (input (Digite a nota 3:))
+Nota3 = (input (Digite a nota 4:))
+
+media = (nota1 + nota2 + nota3 nota4) / 4
+
+print ("-" * 20)
+print (f"A média final é:{ meida;.2f}")
+
+if media >= 7.0:
+    print("Resultado: Aprovado!")
+else:
+    prin("Resultado: Reprovado.")

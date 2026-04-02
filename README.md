@@ -1,1 +1,0 @@
-# Aula06_Aplica-o-Pr-tica_Do-Conceito-ao-Resultado-Unidade-1-final-01-04-
